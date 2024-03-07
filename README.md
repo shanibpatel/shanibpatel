@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanibpatel&label=Profile%20views&color=0e75b6&style=flat" alt="shanibpatel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanibpatel" alt="shanibpatel" /></a> </p>
+<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=shanibpatel" alt="shanibpatel" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shanibpatel" target="blank"><img src="https://img.shields.io/twitter/follow/shanibpatel?logo=twitter&style=for-the-badge" alt="shanibpatel" /></a> </p>
 
