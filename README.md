@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shani Patel</h1>
 <h3 align="center">Digital Entrepreneur | Senior Software Engineer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanibpatel&label=Profile%20views&color=0e75b6&style=flat" alt="shanibpatel" /> </p>
-
-<p align="left"> <a href="https://twitter.com/shanibpatel" target="blank"><img src="https://img.shields.io/twitter/follow/shanibpatel?logo=twitter&style=for-the-badge" alt="shanibpatel" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shanibpatel&label=Profile%20views&color=0e75b6&style=flat" alt="shanibpatel" />  <a href="https://twitter.com/shanibpatel" target="blank"><img src="https://img.shields.io/twitter/follow/shanibpatel?logo=twitter&style=for-the-badge" alt="shanibpatel" /></a>
+</p>
 
 - 🌱 I’m currently learning **React & Node.js**
 
@@ -14,6 +14,7 @@
 - 📫 How to reach me **shanibpatel@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://codepen.io/shanibpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shanibpatel" height="30" width="40" /></a>
 <a href="https://twitter.com/shanibpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shanibpatel" height="30" width="40" /></a>
