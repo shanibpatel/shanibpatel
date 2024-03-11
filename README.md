@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanibpatel&label=Profile%20views&color=0e75b6&style=flat" alt="shanibpatel" /> </p>
 
-<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=shanibpatel" alt="shanibpatel" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shanibpatel" target="blank"><img src="https://img.shields.io/twitter/follow/shanibpatel?logo=twitter&style=for-the-badge" alt="shanibpatel" /></a> </p>
 
 - 🌱 I’m currently learning **React & Node.js**
@@ -56,3 +54,5 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 20px;"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="margin-right: 20px;"/> </a>
 </p>
+
+<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=shanibpatel" alt="shanibpatel" /></a> </p>
