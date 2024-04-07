@@ -2,6 +2,10 @@
 <h3 align="center">Digital Entrepreneur | Senior Software Engineer </h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Front%20End%20Developer;I%20was%20Created%20to%20Create;4+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanibpatel&label=Profile%20views&color=0e75b6&style=flat" alt="shanibpatel" />  <a href="https://twitter.com/shanibpatel" target="blank"><img src="https://img.shields.io/twitter/follow/shanibpatel?logo=twitter&style=for-the-badge" alt="shanibpatel" /></a>
 </p>
 
