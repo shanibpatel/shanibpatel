@@ -29,14 +29,6 @@
       <th>Total Count</th>
     </tr>
     <tr>
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/lifeofmit"><img src="https://github.com/lifeofmit.png" alt="@lifeofmit" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/lifeofmit"><b>lifeofmit</b></a>
-        </b>
-      </td> -->
-      <!-- Profile Views -->
       <td>
          <a href="https://github.com/shanibpatel"> <img src="https://komarev.com/ghpvc/?username=shanibpatel&style=for-the-badge&color=brightgreen"> </a>
       </td>
@@ -49,7 +41,7 @@
 
 - 📝 I regularly write articles on [http://oceantechnolab.com/blogs](http://oceantechnolab.com/blogs)
 
-<!--- 📫 How to reach me **shanibpatel@outlook.com**-->
+- 📫 How to reach me **shanibpatel@outlook.com**
 
 ## Connect with me
 
