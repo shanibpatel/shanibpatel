@@ -1,13 +1,47 @@
 <h1 align="center">Hi 👋, I'm Shani Patel</h1>
-<h3 align="center">Digital Entrepreneur | Senior Software Engineer </h3>
+<!--<h3 align="center">Digital Entrepreneur | Senior Software Engineer </h3>-->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Front%20End%20Developer;I%20was%20Created%20to%20Create;4+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Digital%20Entrepreneur%20|%20Senior%20Software%20Engineer;8+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanibpatel&label=Profile%20views&color=0e75b6&style=flat" alt="shanibpatel" />  <a href="https://twitter.com/shanibpatel" target="blank"><img src="https://img.shields.io/twitter/follow/shanibpatel?logo=twitter&style=for-the-badge" alt="shanibpatel" /></a>
-</p>
+</p>-->
+
+<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shanibpatel/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/shanibpatel"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:shanibpatel@outlook.com"><img alt="Outlook" title="Outlook" src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=Outlook&logoColor=white"/></a>
+  <a href="https://discord.gg/shanibpatel"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCXuHZWT5Hy6i9ka2uFg_1Ww"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <!--<a href="https://ko-fi.com/"><img alt="Kofi" title="Kofi" src="https://img.shields.io/badge/-Kofi-ff7389?style=for-the-badge&logo=kofi&logoColor=white"/></a>-->
+<a href="https://github.com/shanibpatel?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shanibpatel?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/shanibpatel"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/shanibpatel?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+ </p>
+
+  <table align="center">
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/lifeofmit"><img src="https://github.com/lifeofmit.png" alt="@lifeofmit" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/lifeofmit"><b>lifeofmit</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/shanibpatel"> <img src="https://komarev.com/ghpvc/?username=shanibpatel&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
 
 - 🌱 I’m currently learning **React & Node.js**
 
@@ -15,9 +49,9 @@
 
 - 📝 I regularly write articles on [http://oceantechnolab.com/blogs](http://oceantechnolab.com/blogs)
 
-- 📫 How to reach me **shanibpatel@outlook.com**
+<!--- 📫 How to reach me **shanibpatel@outlook.com**-->
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 
 <p align="left">
 <a href="https://codepen.io/shanibpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shanibpatel" height="30" width="40" /></a>
@@ -30,13 +64,17 @@
 <a href="https://www.leetcode.com/shanibpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shanibpatel" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanibpatel&show_icons=true&locale=en&layout=compact" alt="shanibpatel" /></p>
+## My Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanibpatel&show_icons=true&locale=en" alt="shanibpatel" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanibpatel&show_icons=true&theme=dracula&locale=en&layout=compact" alt="shanibpatel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanibpatel&" alt="shanibpatel" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanibpatel&show_icons=true&theme=dracula&locale=en" alt="shanibpatel" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Activity On Github
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanibpatel&theme=highcontrast" alt="shanibpatel" /></p>
+
+## Languages and Tools
 
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin-right: 20px;"/> </a>
@@ -59,5 +97,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 20px;"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="margin-right: 20px;"/> </a>
 </p>
+
+## Trophies
 
 <p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=shanibpatel" alt="shanibpatel" /></a> </p>
