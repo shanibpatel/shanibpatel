@@ -54,7 +54,7 @@ const shaniPatel = {
 
 - 🌱 I'm currently mastering **React, C# Advanced, PostgreSQL, MS SQL, AI, Python, AWS & Cloud Architecture**
 - 👨‍💻 All my projects are available at [GitHub Repositories](https://github.com/shanibpatel?tab=repositories)
-- 📝 I regularly share insights on [Ocean Tech Blog](http://oceantechnolab.com/blogs)
+- 📝 I regularly share insights on [LinkedIn](https://www.linkedin.com/in/shanibpatel/recent-activity/all/)
 - 💬 Ask me about **Full Stack Development, Cloud Solutions, System Architecture, AI/ML Integration**
 - 📫 Reach me at **shanibpatel@outlook.com**
 - ⚡ Fun fact: **I debug code faster than I debug my life choices 🐛💻**
@@ -149,10 +149,14 @@ const shaniPatel = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shanibpatel&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shanibpatel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=shanibpatel&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
 </div>
 
 ---
@@ -163,6 +167,20 @@ const shaniPatel = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanibpatel&bg_color=1a1b27&color=38bdae&line=628fdb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanibpatel&theme=tokyonight" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanibpatel&theme=tokyonight" alt="Repos Per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanibpatel&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanibpatel&theme=tokyonight" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanibpatel&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</div>
+
 ---
 
 ## 💡 Recent Projects & Highlights
@@ -171,8 +189,10 @@ const shaniPatel = {
 
 | 🎯 Focus Area | 📦 Description |
 |:------------:|:--------------|
-| **Full Stack Development** | Building scalable web applications with modern frameworks |
-| **Cloud Solutions** | Deploying and managing applications on Azure |
+| **Full Stack Development** | Building scalable web applications with React, C#, and modern frameworks |
+| **Cloud Solutions** | Architecting and deploying applications on AWS and Azure |
+| **AI/ML Integration** | Implementing intelligent features using Python and modern AI tools |
+| **Database Engineering** | Optimizing PostgreSQL and MS SQL for high-performance systems |
 | **Open Source** | Contributing to community projects and maintaining repositories |
 | **Tech Writing** | Sharing knowledge through blogs and technical articles |
 
@@ -205,8 +225,11 @@ const currentlyLearning = {
 
 ## 💼 Professional Summary
 
-- 💻 **8+ years** of experience in software development
-- 🎯 Specialized in **Full Stack Development** with React, Node.js, and .NET
+- 💻 **9+ years** of experience in software development
+- 🎯 Specialized in **Full Stack Development** with React, Node.js, C#, and Python
+- ☁️ Expert in **Cloud Architecture** with AWS and Azure
+- 🤖 Building **AI-powered solutions** and integrating ML capabilities
+- 🗄️ Database specialist with **PostgreSQL** and **MS SQL Server**
 - 🌟 Built and deployed **scalable applications** serving thousands of users
 - 🤝 Strong advocate for **clean code**, **best practices**, and **team collaboration**
 - 📚 Passionate about **mentoring** and **knowledge sharing**
