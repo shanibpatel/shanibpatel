@@ -1,95 +1,231 @@
-<h1 align="center">Hi 👋, I'm Shani Patel</h1>
-<!--<h3 align="center">Digital Entrepreneur | Senior Software Engineer </h3>-->
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Digital%20Entrepreneur%20|%20Senior%20Software%20Engineer;8+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+# Hi 👋, I'm Shani Patel
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+💻;Digital+Entrepreneur+🚀;Senior+Software+Engineer+⚡;9%2B+Years+of+Coding+Experience+🎯;AI+%26+Cloud+Solutions+Architect+☁️;Building+Scalable+Solutions+🌟&font=Fira+Code&center=true&width=650&height=50&color=3ABEFF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
-<!--<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shanibpatel&label=Profile%20views&color=0e75b6&style=flat" alt="shanibpatel" />  <a href="https://twitter.com/shanibpatel" target="blank"><img src="https://img.shields.io/twitter/follow/shanibpatel?logo=twitter&style=for-the-badge" alt="shanibpatel" /></a>
-</p>-->
-
-<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shanibpatel/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/shanibpatel"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:shanibpatel@outlook.com"><img alt="Outlook" title="Outlook" src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=Outlook&logoColor=white"/></a>
-  <a href="https://discord.gg/shanibpatel"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UCXuHZWT5Hy6i9ka2uFg_1Ww"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <!--<a href="https://ko-fi.com/"><img alt="Kofi" title="Kofi" src="https://img.shields.io/badge/-Kofi-ff7389?style=for-the-badge&logo=kofi&logoColor=white"/></a>-->
-<a href="https://github.com/shanibpatel?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shanibpatel?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/shanibpatel"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/shanibpatel?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
- </p>
-
-  <table align="center">
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <td>
-         <a href="https://github.com/shanibpatel"> <img src="https://komarev.com/ghpvc/?username=shanibpatel&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
-
-- 🌱 I’m currently learning **React & Node.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/shanibpatel?tab=repositories](https://github.com/shanibpatel?tab=repositories)
-
-- 📝 I regularly write articles on [http://oceantechnolab.com/blogs](http://oceantechnolab.com/blogs)
-
-- 📫 How to reach me **shanibpatel@outlook.com**
-
-## Connect with me
-
-<p align="left">
-<a href="https://codepen.io/shanibpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shanibpatel" height="30" width="40" /></a>
-<a href="https://twitter.com/shanibpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shanibpatel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shanibpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanibpatel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shanibpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shanibpatel" height="30" width="40" /></a>
-<a href="https://fb.com/shanibpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shanibpatel" height="30" width="40" /></a>
-<a href="https://instagram.com/shanibpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shanibpatel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shanibpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shanibpatel" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shanibpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shanibpatel" height="30" width="40" /></a>
+<p>
+  <em>Digital Entrepreneur | Senior Software Engineer | Fitness Enthusiast | Toastmaster</em>
 </p>
 
-## My Stats
+---
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanibpatel&show_icons=true&theme=dracula&locale=en&layout=compact" alt="shanibpatel" /></p>
+### 🌐 Connect With Me
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanibpatel&show_icons=true&theme=dracula&locale=en" alt="shanibpatel" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanibpatel/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shanibpatel)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:shanibpatel@outlook.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shanibpatel)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXuHZWT5Hy6i9ka2uFg_1Ww)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shanibpatel)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/shanibpatel)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/shanibpatel)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/shanibpatel)
 
-## Activity On Github
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanibpatel&theme=highcontrast" alt="shanibpatel" /></p>
-
-## Languages and Tools
-
-<p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 20px;"/> </a>
- <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 20px;"/> </a> -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 20px;"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="margin-right: 20px;"/> </a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shanibpatel&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/shanibpatel?tab=followers">
+    <img src="https://img.shields.io/github/followers/shanibpatel?label=Followers&style=for-the-badge&color=236ad3&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/shanibpatel?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/shanibpatel?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star&label=Total%20Stars" alt="Total Stars" />
+  </a>
 </p>
 
-## Trophies
+</div>
 
-<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=shanibpatel" alt="shanibpatel" /></a> </p>
+---
+
+## 🚀 About Me
+
+```typescript
+const shaniPatel = {
+    location: "Pune, India 📍",
+    role: "Senior Software Engineer",
+    company: "Digital Entrepreneur",
+    experience: "9+ years",
+    currentFocus: ["React", "C# Advanced", "PostgreSQL", "MS SQL", "AI", "Python", "AWS", "Cloud Architecture"],
+    interests: ["Full Stack Development", "System Design", "Tech Innovation", "AI/ML"],
+    funFact: "I debug code faster than I debug my life choices 🐛💻"
+};
+```
+
+- 🌱 I'm currently mastering **React, C# Advanced, PostgreSQL, MS SQL, AI, Python, AWS & Cloud Architecture**
+- 👨‍💻 All my projects are available at [GitHub Repositories](https://github.com/shanibpatel?tab=repositories)
+- 📝 I regularly share insights on [Ocean Tech Blog](http://oceantechnolab.com/blogs)
+- 💬 Ask me about **Full Stack Development, Cloud Solutions, System Architecture, AI/ML Integration**
+- 📫 Reach me at **shanibpatel@outlook.com**
+- ⚡ Fun fact: **I debug code faster than I debug my life choices 🐛💻**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎯 Design & Other Tools</b></summary>
+<br>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shanibpatel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shanibpatel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanibpatel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=shanibpatel&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shanibpatel&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanibpatel&bg_color=1a1b27&color=38bdae&line=628fdb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💡 Recent Projects & Highlights
+
+<div align="center">
+
+| 🎯 Focus Area | 📦 Description |
+|:------------:|:--------------|
+| **Full Stack Development** | Building scalable web applications with modern frameworks |
+| **Cloud Solutions** | Deploying and managing applications on Azure |
+| **Open Source** | Contributing to community projects and maintaining repositories |
+| **Tech Writing** | Sharing knowledge through blogs and technical articles |
+
+</div>
+
+---
+
+## 🎓 Continuous Learning
+
+```javascript
+const currentlyLearning = {
+    2026: [
+        "Advanced React Patterns",
+        "C# Advanced Techniques",
+        "AI/ML Integration & Deployment",
+        "AWS Cloud Architecture",
+        "PostgreSQL Performance Optimization",
+        "Python for Data Science"
+    ],
+    nextGoals: [
+        "AWS Solutions Architect Certification",
+        "AI-Powered Applications",
+        "Contribute to major OSS projects",
+        "Launch tech startup"
+    ]
+};
+```
+
+---
+
+## 💼 Professional Summary
+
+- 💻 **8+ years** of experience in software development
+- 🎯 Specialized in **Full Stack Development** with React, Node.js, and .NET
+- 🌟 Built and deployed **scalable applications** serving thousands of users
+- 🤝 Strong advocate for **clean code**, **best practices**, and **team collaboration**
+- 📚 Passionate about **mentoring** and **knowledge sharing**
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect and Build Something Amazing Together!
+
+[![Email](https://img.shields.io/badge/Email%20Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:shanibpatel@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanibpatel/)
+
+---
+
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+</p>
+
+**⭐ From [shanibpatel](https://github.com/shanibpatel) with 💙**
+
+</div>
